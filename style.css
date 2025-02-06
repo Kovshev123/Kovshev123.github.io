@@ -1,0 +1,48 @@
+    body{
+        color: #000000;
+            background-image: url(капибара.jpg);
+            background-size: cover;
+         }
+    .logo{
+        width: 180px;
+    }
+    .logo:hover{
+        width: 300px;
+    }
+    .logo2{
+        width: 100px;
+        box-shadow: 5px 10px 15px #000000;
+    }
+    .header{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 70px ;
+        color: #E4A010	;
+        text-shadow: 5px 10px 7px #000000;
+    }
+    .header:hover{
+color: aqua;
+    }
+
+    .desk_os{
+        border: 10px solid orange;
+        border-radius: 30px;
+        background-color: aliceblue;
+        box-shadow: 5px 15px 25px orange;
+        width: 50%
+    }
+
+    .mobil_os{
+        border: 10px solid orange;
+        border-radius: 30px;
+        background-color: aliceblue;
+        box-shadow: 5px 15px 25px orange;
+        width: 30%
+    }
+
+    .server_os{
+        border: 10px solid orange;
+         border-radius: 30px;
+        background-color: aliceblue;
+        box-shadow: 5px 15px 25px orange;
+        width: 95%
+    }
